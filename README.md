@@ -2,7 +2,11 @@
 
 #### 참고한 책
 
-![파이썬 답게 코딩하기에 대한 이미지 검색결과](http://image.yes24.com/momo/TopCate1849/MidCate008/184877424.jpg){: width="10px" height="10px"}  
+
+
+<img src="http://image.yes24.com/momo/TopCate1849/MidCate008/184877424.jpg" width="300" height="400">
+
+
 
 - 제목: 파이썬 답게 코딩하기
 - 저자: 심경섭
